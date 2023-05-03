@@ -3,7 +3,7 @@ namespace MyConsoleApp.Tests
     public class Tests
     {
         [Test]
-        public void WhenEmployeeCollectScores_ShouldCorrectResult()
+        public void WhenEmployeeCollectSomeScores_ShouldCorrectResult()
         {
             var user = new Employee("name", "surname", 18);
             user.AddScore(5);
