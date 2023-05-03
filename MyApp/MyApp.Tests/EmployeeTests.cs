@@ -1,6 +1,6 @@
 namespace MyConsoleApp.Tests
 {
-    public class Tests
+    public class EmployeeTests
     {
         [Test]
         public void WhenEmployeeCollectSomeScores_ShouldCorrectResult()
